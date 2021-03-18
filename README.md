@@ -8,8 +8,12 @@
 
 - ☎️ Как со мной связаться:
   * ✉️ email: ivan.gordievsky@icloud.com;
-  * 🐦 Twitter: https://twitter.com/I_Gordievsky;
-  * 📠 Telegram: @Ivan_Gordievsky;
+  * ![icons8-twitter-в-квадрате-25](https://user-images.githubusercontent.com/67991407/111701500-ff2d0f80-884b-11eb-90e8-3336e7da6bf4.png)
+ Twitter: https://twitter.com/I_Gordievsky;
+  * ![icons8-телеграмма-app-25](https://user-images.githubusercontent.com/67991407/111701451-ecb2d600-884b-11eb-89b8-af319ddb4e92.png)
+ Telegram: @Ivan_Gordievsky;
+  * ![icons8-facebook-25](https://user-images.githubusercontent.com/67991407/111701618-2683dc80-884c-11eb-88da-c62fb417ab08.png) Facebook: https://www.facebook.com/IvanGordievsky93/
+
     
     
 🛠 Стек технологий:
