@@ -14,7 +14,7 @@
     
 🛠 Стек технологий:
 -------------------
-##### HTML5, CSS3, JavaScript, React.js, Node.js, mongoDB, GitHub, Express.js #####
+#### HTML5, CSS3, JavaScript, React.js, Node.js, mongoDB, GitHub, Express.js ####
 ![icons8-html-5-48](https://user-images.githubusercontent.com/67991407/111693883-3bf40900-8842-11eb-987b-aa71191252fa.png)
 ![icons8-css3-48](https://user-images.githubusercontent.com/67991407/111693879-3b5b7280-8842-11eb-92d3-fcd5387a3663.png)
 ![icons8-javascript-48](https://user-images.githubusercontent.com/67991407/111693886-3c8c9f80-8842-11eb-9f4c-4a6c42b0ef30.png)
