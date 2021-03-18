@@ -7,8 +7,9 @@
 
 
 - ☎️ Как со мной связаться:
-    ✉️ email: ivan.gordievsky@icloud.com;
-    🐦 Twitter: https://twitter.com/I_Gordievsky;
+  * ✉️ email: ivan.gordievsky@icloud.com;
+  * 🐦 Twitter: https://twitter.com/I_Gordievsky;
+  * 📠 Telegram: @Ivan_Gordievsky;
     
     
 🛠 Стек технологий:
