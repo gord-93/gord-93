@@ -1,20 +1,3 @@
-👋 Привет! 
-----------------------------
-- 💻 Я начинающий web-разработчик!
-- 🏫 Мой путь в web-разработку начался с прохождения курсов Яндекс.Практикума (https://praktikum.yandex.ru).
-- ⚙️ На курсах я освоил технологии: HTML, CSS, JavaScript, React, Git, Express.js, mongoDB. 
-
-
-
-- ☎️ Как со мной связаться:
-  * ✉️ email: ivan.gordievsky@icloud.com;
-  * ![icons8-телеграмма-app-25](https://user-images.githubusercontent.com/67991407/111701451-ecb2d600-884b-11eb-89b8-af319ddb4e92.png)
- Telegram: @Ivan_Gordievsky;
-  * ![icons8-facebook-25](https://user-images.githubusercontent.com/67991407/111701618-2683dc80-884c-11eb-88da-c62fb417ab08.png) Facebook: https://www.facebook.com/IvanGordievsky93/
-
-
-    
-    
 🛠 Стек технологий:
 -------------------
 #### HTML5, CSS3, JavaScript, React.js, Node.js, mongoDB, GitHub, Express.js ####
